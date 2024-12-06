@@ -161,6 +161,14 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# big data set
+# big datasets
 Rice_Image_Dataset.zip
 Rice_Image_Dataset
+
+glove.6B.50d.txt
+glove.6B.100d.txt
+glove.6B.200d.txt
+glove.6B.300d.txt
+glove.6B.zip
+glove.6B.zip.1
+
